@@ -1,4 +1,4 @@
-PROJECT_NAME =BMI_index_calculator
+PROJECT_NAME =xyz
 	
 	# Output directory
 	BUILD = build
